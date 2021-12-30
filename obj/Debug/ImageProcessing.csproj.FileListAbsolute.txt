@@ -1,0 +1,17 @@
+E:\Univercity\پیوست\برنامه سازی پیشرفته\ImageProcessing\bin\Debug\ImageProcessing.exe
+E:\Univercity\پیوست\برنامه سازی پیشرفته\ImageProcessing\bin\Debug\ImageProcessing.pdb
+E:\Univercity\پیوست\برنامه سازی پیشرفته\ImageProcessing\obj\Debug\ImageProcessing.csprojResolveAssemblyReference.cache
+E:\Univercity\پیوست\برنامه سازی پیشرفته\ImageProcessing\obj\Debug\ImageProcessing.BrightnessForm.resources
+E:\Univercity\پیوست\برنامه سازی پیشرفته\ImageProcessing\obj\Debug\ImageProcessing.ContrastForm.resources
+E:\Univercity\پیوست\برنامه سازی پیشرفته\ImageProcessing\obj\Debug\ImageProcessing.CropForm.resources
+E:\Univercity\پیوست\برنامه سازی پیشرفته\ImageProcessing\obj\Debug\ImageProcessing.GammaForm.resources
+E:\Univercity\پیوست\برنامه سازی پیشرفته\ImageProcessing\obj\Debug\ImageProcessing.ImageInfo.resources
+E:\Univercity\پیوست\برنامه سازی پیشرفته\ImageProcessing\obj\Debug\ImageProcessing.ImageProcessing.resources
+E:\Univercity\پیوست\برنامه سازی پیشرفته\ImageProcessing\obj\Debug\ImageProcessing.InsertImageForm.resources
+E:\Univercity\پیوست\برنامه سازی پیشرفته\ImageProcessing\obj\Debug\ImageProcessing.InsertShapeForm.resources
+E:\Univercity\پیوست\برنامه سازی پیشرفته\ImageProcessing\obj\Debug\ImageProcessing.InsertTextForm.resources
+E:\Univercity\پیوست\برنامه سازی پیشرفته\ImageProcessing\obj\Debug\ImageProcessing.Properties.Resources.resources
+E:\Univercity\پیوست\برنامه سازی پیشرفته\ImageProcessing\obj\Debug\ImageProcessing.InsertTextForm1.resources
+E:\Univercity\پیوست\برنامه سازی پیشرفته\ImageProcessing\obj\Debug\ImageProcessing.csproj.GenerateResource.Cache
+E:\Univercity\پیوست\برنامه سازی پیشرفته\ImageProcessing\obj\Debug\ImageProcessing.exe
+E:\Univercity\پیوست\برنامه سازی پیشرفته\ImageProcessing\obj\Debug\ImageProcessing.pdb
